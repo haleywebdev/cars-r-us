@@ -1,4 +1,4 @@
-import { getInteriors } from "./Database.js";
+import { getInteriors } from "./database.js";
 
 document.addEventListener(
     "change",
